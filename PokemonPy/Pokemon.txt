@@ -1,0 +1,131 @@
+Sceptile Grass None
+280 269 166 221 207 372
+Leaf Blade
+90 24 1 Grass 100
+Dragon Claw
+80 24 1 Dragon 80
+Earthquake
+100 16 1 Ground 100
+Brick Break
+75 24 1 Fighting 100
+
+Flygon Ground Dragon
+300 299 176 197 196 328
+Flamethrower
+95 24 2 Fire 100
+Crunch
+80 24 1 Dark 100
+Dragon Claw
+80 24 1 Dragon 100
+Rock Slide
+75 16 1 Rock 90
+
+Gengar Ghost Poison
+260 167 140 359 186 350
+Thunderbolt 
+95 24 2 Electric 100
+Ice Punch
+75 24 2 Ice 100
+Shadow Ball
+80 24 2 Ghost 100
+Psychic
+90 16 2 Psychic 100
+
+Milotic Water None
+330 112 194 299 287 287
+Surf
+90 24 2 Water 100
+Dragon Tail
+60 16 2 Dragon 90
+Ice Beam
+90 16 2 Ice 100
+Hydro Pump
+110 8 2 Water 80
+
+Ninetales Fire None
+290 141 186 261 237 328
+Flamethrower
+95 24 2 Fire 100
+Dark Pulse
+80 24 2 Dark 100
+Energy Ball
+90 16 2 Grass 100
+Extrasensory
+80 32 2 Psychic 100
+
+Gardevoir Psychic Fairy
+280 121 166 349 267 284
+Psychic
+90 16 2 Psychic 100
+Energy Ball
+90 16 2 Grass 100
+Shadow Ball
+80 24 2 Ghost 100
+Moonblast
+95 24 2 Fairy 100
+
+Jolteon Eletric None
+270 167 150 319 226 394
+Discharge
+80 24 2 Eletric 100
+Shadow Ball
+80 24 2 Ghost 100
+Thunderbolt
+90 24 2 Eletric 100
+Tackle
+40 56 1 Normal 100
+
+Scizor Bug Steel
+340 394 236 148 196 149
+Acrobatics
+55 24 1 Flying 100
+Bug Buzz
+90 16 2 Bug 100
+Iron Head
+80 24 1 Steel 100
+X-Scissor
+80 24 1 Bug 100
+
+Noctowl Normal Flying
+400 138 122 298 228 176
+Air Slash
+75 24 2 Flying 95
+Moonblast
+95 24 2 Fairy 100
+Zen Headbutt
+80 24 1 Psychic 90
+Heat Wave
+95 16 2 Fire 90
+
+Walrein Ice Water
+420 284 216 228 216 149
+Blizzard
+110 8 2 Ice 70
+Earthquake
+100 16 1 Ground 100
+Iron Head
+80 24 1 Steel 100
+Crunch
+80 24 1 Dark 100
+
+Cradily Rock Grass
+380 287 230 200 250 109
+Earthquake
+100 16 1 Ground 100
+Body Slam
+85 24 1 Normal 100
+Energy Ball
+90 16 2 Grass 100
+Stone Edge
+100 8 1 Rock 80
+
+Crobat Poison Flying
+310 279 176 177 196 394
+Acrobatics
+55 24 1 Flying 100
+Crunch
+80 24 1 Dark 100
+Sludge Bomb
+90 16 2 Poison 100
+Zen Headbutt
+80 24 1 Psychic 90
